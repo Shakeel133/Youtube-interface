@@ -1,0 +1,12 @@
+.imgs{
+    display: inline;
+}
+
+.input{
+    display: inline;
+    font-size: 30px;
+}
+
+.video{
+    align-self: end;
+}
